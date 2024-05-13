@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399150623929",
+    "project_id": "prueba-6a882",
+    "storage_bucket": "prueba-6a882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399150623929:android:8f7e58f121cac86089bf68",
+        "android_client_info": {
+          "package_name": "com.example.a78loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqOMHj4LQPlOCnf9VLN2FsAr_H_e77GMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

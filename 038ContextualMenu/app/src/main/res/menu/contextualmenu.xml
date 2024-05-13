@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/menu_coast"
+        android:icon="@android:drawable/divider_horizontal_dim_dark"
+        android:title="@string/menu_coast"></item>
+    <item android:id="@+id/menu_print"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="@string/menu_print"></item>
+</menu>
